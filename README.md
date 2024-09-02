@@ -89,6 +89,8 @@ Cloud config-Cloud conflict, especially used to tracking the detail changes whic
 Q- what is elastic beanstalk?
 
 A - elastic beans, stock is the service for deploying and scaling web application and service. Upload your code and elastic bet will automatically handle the deployment from load balance into health monitoring.
+or 
+Amazon Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS.
 
 
 Q- what is blue green  deployment?
